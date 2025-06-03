@@ -9,5 +9,6 @@
 * 0506-The Nao Frontier: Where Science Meets the Impossible-國立屏東科技大學機械工程系助理教授 楊凱琳博士
 * 0513-物流出貨運送管理系統 國立中興大學資訊管理學系終身特聘教授兼計資中心主任 詹永寬
 * 0520-從知識到技能，再到商業價值_專業成長的實踐之路 飛鳥車用電子有限公司總經理 胡龍融博士
+* 0603-Future Insights: Harnessing AI and Social Media for Advanced Event and Epidemic Forecasting 美國維吉尼亞理工大學資訊系呂昌田教授
 * 完整報告-0422
 * 完整報告-0513
