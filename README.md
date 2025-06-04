@@ -12,3 +12,4 @@
 * 0603-Future Insights: Harnessing AI and Social Media for Advanced Event and Epidemic Forecasting 美國維吉尼亞理工大學資訊系呂昌田教授
 * 完整報告-0422
 * 完整報告-0513
+* 完整報告-0603
